@@ -9,7 +9,7 @@ EmpathAI is a local Retrieval-Augmented Generation (RAG) chatbot that simulates 
 ## 🧩 Features
 
 - 🔍 **Retrieval-Augmented Generation (RAG)**: Combines document knowledge + personal memory to generate informed replies.
-- 🧠 **Emotion Detection**: Automatically deduces your feelings from input (e.g., "I feel stuck") using LLM inference.
+- 🧠 **Emotion Detection**: Automatically deduces your feelings from input ("I feel stuck") using LLM inference.
 - 📚 **Therapy Guides**: Built-in CBT, mindfulness, and grounding techniques, chunked and embedded for context-aware retrieval.
 - 🗂️ **Persistent Memory**: All user interactions are saved and reloaded on future sessions.
 - 🎨 **Gradio Interface**: Clean, conversational UI for local or remote interaction.
