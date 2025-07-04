@@ -1,6 +1,6 @@
 # 🧠 EmpathAI: A RAG-Powered Therapy Companion
 
-EmpathAI is a local Retrieval-Augmented Generation (RAG) chatbot that simulates a compassionate therapy assistant. It uses psychological guides (CBT techniques) and your past emotional entries to offer supportive, emotionally intelligent responses — all without uploading your data to the cloud.
+EmpathAI is a local Retrieval-Augmented Generation (RAG) chatbot that simulates a compassionate therapy assistant. It uses psychological guides (Cognitive Behavioral Therapy [CBT] techniques) and your past emotional entries to offer supportive, emotionally intelligent responses, all without uploading your data to the cloud.
 
 > 💬 “How you feel matters. EmpathAI helps you put it into words.”
 
