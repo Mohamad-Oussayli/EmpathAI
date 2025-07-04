@@ -42,6 +42,7 @@ EmpathAI is a local Retrieval-Augmented Generation (RAG) chatbot that simulates 
 ### 1. Clone the Repository
 
 git clone https://github.com/yourusername/EmpathAI.git
+
 cd EmpathAI
 
 ### 2. Upload Therapy Docs
