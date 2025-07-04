@@ -28,20 +28,21 @@ EmpathAI is a local Retrieval-Augmented Generation (RAG) chatbot that simulates 
 ---
 
 ## 📁 Project Structure
--EmpathAI/
+
+'''-EmpathAI/
 │
 ├── cbt_docs/ # Folder of therapy text files (.txt)
 ├── therapy_logs.json # Memory log of past user inputs + emotions
 ├── memory.index # FAISS vector index (therapy + memory)
 ├── memory_chunks.txt # All stored text chunks (therapy + logs)
 ├── empathai.ipynb # Main Colab Notebook
-└── README.md
+└── README.md'''
 
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/EmpathAI.git
+git clone https://github.com/Mohamad-Oussayli/EmpathAI.git
 
 cd EmpathAI
 
